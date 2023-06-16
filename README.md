@@ -12,7 +12,7 @@
 4. [How Rollups \*Actually Actually Actually\* Work](https://dba.mirror.xyz/LYUb_Y2huJhNUw_z8ltqui2d6KY8Fc3t_cnSE9rDL_o)
    - _Jon Charbonneau, May 2023_ 
 
-### specific proposals
+### sequencer proposals
 1. [Time boost: a new transaction ordering policy proposal](https://research.arbitrum.io/t/time-boost-a-new-transaction-ordering-policy-proposal/8173)
    - _Ed Felton, Arbitrum, March 2023_
 1. [B52, Sequencer Selection Proposal: PBS with a federated prover network](https://discourse.aztec.network/t/proposal-sequencer-selection-b52-pbs-with-a-federated-prover-network/351)
