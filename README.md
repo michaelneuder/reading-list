@@ -18,4 +18,13 @@
 1. [B52, Sequencer Selection Proposal: PBS with a federated prover network](https://discourse.aztec.network/t/proposal-sequencer-selection-b52-pbs-with-a-federated-prover-network/351)
    - _Joe, Aztec, May 2023_
 1. [Sequencer Selection: Fernet](https://discourse.aztec.network/t/proposal-sequencer-selection-fernet/533)
-   - Santiago, Aztec, June 2023_
+   - _Santiago, Aztec, June 2023_
+
+
+## mev
+
+### builders/searchers
+1. [Builder Dominance and Searcher Dependence](https://frontier.tech/builder-dominance-and-searcher-dependence)
+   - _Titan, June 2023_
+2. [PBS Centralisation: A Qualitative Analysis](https://flashbots.notion.site/PBS-Centralisation-A-Qualitative-Analysis-0ba745fb32b94e8db759126d03a358e6?pvs=4)
+   - _Quintus, June 2023_
