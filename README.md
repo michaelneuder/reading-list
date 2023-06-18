@@ -32,3 +32,5 @@
 ### encrypted mempools
 1. [Encrypted Mempools](https://joncharbonneau.substack.com/p/encrypted-mempools)
    - _Jon Charbonneau, March 2023_
+2. [MEV-Share: programmably private orderflow to share MEV with users](https://collective.flashbots.net/t/mev-share-programmably-private-orderflow-to-share-mev-with-users/1264)
+   - _Bert Miller, Feb 2023_
