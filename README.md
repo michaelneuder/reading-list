@@ -28,3 +28,7 @@
    - _Titan, June 2023_
 2. [PBS Centralisation: A Qualitative Analysis](https://flashbots.notion.site/PBS-Centralisation-A-Qualitative-Analysis-0ba745fb32b94e8db759126d03a358e6?pvs=4)
    - _Quintus, June 2023_
+  
+### encrypted mempools
+1. [Encrypted Mempools](https://joncharbonneau.substack.com/p/encrypted-mempools)
+   - _Jon Charbonneau, March 2023_
