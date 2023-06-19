@@ -34,6 +34,8 @@
    - _Titan, June 2023_
 2. [PBS Centralisation: A Qualitative Analysis](https://flashbots.notion.site/PBS-Centralisation-A-Qualitative-Analysis-0ba745fb32b94e8db759126d03a358e6?pvs=4)
    - _Quintus, June 2023_
+3. [The Centralizing Effects of Private Order Flow on Proposer-Builder Separation](https://arxiv.org/pdf/2305.19150.pdf)
+   - _Tivas, Mallesh, & Max, May 2023_
   
 ### encrypted mempools
 1. [Encrypted Mempools](https://joncharbonneau.substack.com/p/encrypted-mempools)
@@ -46,3 +48,6 @@
    - _Vitalik, Jan 2022_
 2. [How much can we constrain builders without bringing back heavy burdens to proposers?](https://ethresear.ch/t/how-much-can-we-constrain-builders-without-bringing-back-heavy-burdens-to-proposers/13808)
    - _Vitalik, Oct 2022_
+4. [Censorship resistance in on-chain auctions](https://arxiv.org/pdf/2301.13321.pdf)
+   - _Mallesh, Max, & Elijah, Jan 2023_
+   
