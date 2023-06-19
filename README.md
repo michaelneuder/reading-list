@@ -34,3 +34,9 @@
    - _Jon Charbonneau, March 2023_
 2. [MEV-Share: programmably private orderflow to share MEV with users](https://collective.flashbots.net/t/mev-share-programmably-private-orderflow-to-share-mev-with-users/1264)
    - _Bert Miller, Feb 2023_
+  
+### censorship resistance
+1. [State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS)](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance)
+   - _Vitalik, Jan 2022_
+2. [How much can we constrain builders without bringing back heavy burdens to proposers?](https://ethresear.ch/t/how-much-can-we-constrain-builders-without-bringing-back-heavy-burdens-to-proposers/13808)
+   - _Vitalik, Oct 2022_
