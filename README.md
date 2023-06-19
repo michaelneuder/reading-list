@@ -21,7 +21,13 @@
    - _Santiago, Aztec, June 2023_
 
 
-## mev
+## mev / pbs
+
+### big picture
+1. [Notes on Proposer-Builder Separation](https://barnabe.substack.com/p/pbs)
+   - _Barnabé, Nov 2022_
+2. [Seeing like a protocol](https://barnabe.substack.com/p/seeing-like-a-protocol)
+   - _Barnabé, Apr 2023_
 
 ### builders/searchers
 1. [Builder Dominance and Searcher Dependence](https://frontier.tech/builder-dominance-and-searcher-dependence)
@@ -34,7 +40,7 @@
    - _Jon Charbonneau, March 2023_
 2. [MEV-Share: programmably private orderflow to share MEV with users](https://collective.flashbots.net/t/mev-share-programmably-private-orderflow-to-share-mev-with-users/1264)
    - _Bert Miller, Feb 2023_
-  
+
 ### censorship resistance
 1. [State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS)](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance)
    - _Vitalik, Jan 2022_
