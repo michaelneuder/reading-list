@@ -15,10 +15,16 @@
 ### sequencer proposals
 1. [Time boost: a new transaction ordering policy proposal](https://research.arbitrum.io/t/time-boost-a-new-transaction-ordering-policy-proposal/8173)
    - _Ed Felton, Arbitrum, March 2023_
-1. [B52, Sequencer Selection Proposal: PBS with a federated prover network](https://discourse.aztec.network/t/proposal-sequencer-selection-b52-pbs-with-a-federated-prover-network/351)
+2. [B52, Sequencer Selection Proposal: PBS with a federated prover network](https://discourse.aztec.network/t/proposal-sequencer-selection-b52-pbs-with-a-federated-prover-network/351)
    - _Joe, Aztec, May 2023_
-1. [Sequencer Selection: Fernet](https://discourse.aztec.network/t/proposal-sequencer-selection-fernet/533)
+3. [Sequencer Selection: Fernet](https://discourse.aztec.network/t/proposal-sequencer-selection-fernet/533)
    - _Santiago, Aztec, June 2023_
+
+### shared sequencers
+1. [The Espresso Sequencer](https://hackmd.io/@EspressoSystems/EspressoSequencer)
+   - _Espresso team_
+2. [Introducting Astria](https://blog.astria.org/introducing-astria/)
+   - _Josh & Jordan, April 2023_
 
 
 ## mev / pbs
@@ -42,6 +48,8 @@
    - _Jon Charbonneau, March 2023_
 2. [MEV-Share: programmably private orderflow to share MEV with users](https://collective.flashbots.net/t/mev-share-programmably-private-orderflow-to-share-mev-with-users/1264)
    - _Bert Miller, Feb 2023_
+3. [The future of MEV is SUAVE](https://writings.flashbots.net/the-future-of-mev-is-suave/#i-our-journey-so-far)
+   - _Flashbots, Nov 2022_
 
 ### censorship resistance
 1. [State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS)](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance)
