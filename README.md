@@ -10,7 +10,9 @@
 3. [Rollups Aren't Real](https://joncharbonneau.substack.com/p/rollups-arent-real)
    - _Jon Charbonneau, March 2023_
 4. [How Rollups \*Actually Actually Actually\* Work](https://dba.mirror.xyz/LYUb_Y2huJhNUw_z8ltqui2d6KY8Fc3t_cnSE9rDL_o)
-   - _Jon Charbonneau, May 2023_ 
+   - _Jon Charbonneau, May 2023_
+5. [The Definitive Guide to Sequencing](https://prestwich.substack.com/p/the-definitive-guide-to-sequencing)
+   - _James, May 2023_
 
 ### sequencer proposals
 1. [Time boost: a new transaction ordering policy proposal](https://research.arbitrum.io/t/time-boost-a-new-transaction-ordering-policy-proposal/8173)
