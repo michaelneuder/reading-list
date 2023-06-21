@@ -16,7 +16,7 @@
 1. [Time boost: a new transaction ordering policy proposal](https://research.arbitrum.io/t/time-boost-a-new-transaction-ordering-policy-proposal/8173)
    - _Ed Felton, Arbitrum, March 2023_
 2. [Frequent Batch Auction First-Come First-Serve FBA-FCFS](https://research.arbitrum.io/t/transaction-ordering-policy/127/2)
-   _ _sxysun, Flashbots, Sep 2022_
+   - _sxysun, Flashbots, Sep 2022_
 2. [B52, Sequencer Selection Proposal: PBS with a federated prover network](https://discourse.aztec.network/t/proposal-sequencer-selection-b52-pbs-with-a-federated-prover-network/351)
    - _Joe, Aztec, May 2023_
 3. [Sequencer Selection: Fernet](https://discourse.aztec.network/t/proposal-sequencer-selection-fernet/533)
