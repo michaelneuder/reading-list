@@ -29,6 +29,8 @@
    - _Espresso team_
 2. [Introducting Astria](https://blog.astria.org/introducing-astria/)
    - _Josh & Jordan, April 2023_
+3. [Cross-ORU Contingent Blocks](https://prestwich.substack.com/p/contingency)
+   - _James, June 2023_
 
 
 ## mev / pbs
