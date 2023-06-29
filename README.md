@@ -61,6 +61,12 @@
 1. [State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS)](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance)
    - _Vitalik, Jan 2022_
 2. [How much can we constrain builders without bringing back heavy burdens to proposers?](https://ethresear.ch/t/how-much-can-we-constrain-builders-without-bringing-back-heavy-burdens-to-proposers/13808)
+3. 
+
+## cryptography
+
+1. [Exploring Fully Homomorphic Encryption](https://vitalik.ca/general/2020/07/20/homomorphic.html)
+   - _Vitalik, July 2020_
    - _Vitalik, Oct 2022_
 4. [Censorship resistance in on-chain auctions](https://arxiv.org/pdf/2301.13321.pdf)
    - _Mallesh, Max, & Elijah, Jan 2023_
