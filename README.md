@@ -68,4 +68,10 @@
 ## cryptography
 1. [Exploring Fully Homomorphic Encryption](https://vitalik.ca/general/2020/07/20/homomorphic.html)
    - _Vitalik, July 2020_
+
+## lsts
+1. [Introducing Lido V2](https://blog.lido.fi/introducing-lido-v2/)
+   - _Lido Team, Feb 2023_
+2. [Lido Docs](https://docs.lido.fi/)
+   - _Lido Team_
    
