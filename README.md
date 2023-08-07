@@ -64,6 +64,8 @@
    - _Vitalik, Oct 2022_
 4. [Censorship resistance in on-chain auctions](https://arxiv.org/pdf/2301.13321.pdf)
    - _Mallesh, Max, & Elijah, Jan 2023_
+4. [Censorship... wat do?](https://joncharbonneau.substack.com/p/censorship-wat-do)
+   - _Jon Charb, Oct 2022_
 
 ## cryptography
 1. [Exploring Fully Homomorphic Encryption](https://vitalik.ca/general/2020/07/20/homomorphic.html)
