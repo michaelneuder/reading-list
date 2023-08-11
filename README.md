@@ -13,6 +13,8 @@
    - _Jon Charbonneau, May 2023_
 5. [The Definitive Guide to Sequencing](https://prestwich.substack.com/p/the-definitive-guide-to-sequencing)
    - _James, May 2023_
+6. [Endgame: Proof of Governance](https://dba.mirror.xyz/UTPfxWe65dYrUu_RJX-5VkAJypFRyw3AZh6m0dRXYZk)
+   - _Jon, Aug 2023_
 
 ### sequencer proposals
 1. [Time boost: a new transaction ordering policy proposal](https://research.arbitrum.io/t/time-boost-a-new-transaction-ordering-policy-proposal/8173)
