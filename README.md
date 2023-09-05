@@ -68,6 +68,10 @@
    - _Mallesh, Max, & Elijah, Jan 2023_
 4. [Censorship... wat do?](https://joncharbonneau.substack.com/p/censorship-wat-do)
    - _Jon Charb, Oct 2022_
+  
+### misc
+1. [Has anyone checked on EIP-1559 recently?](https://prestwich.substack.com/p/has-anyone-checked-on-eip-1559-recently)
+   - _James, Sept 2023_
 
 ## cryptography
 1. [Exploring Fully Homomorphic Encryption](https://vitalik.ca/general/2020/07/20/homomorphic.html)
