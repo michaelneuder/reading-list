@@ -83,7 +83,7 @@
 2. [Lido Docs](https://docs.lido.fi/)
    - _Lido Team_
 3. [*The risks of LSD*](https://github.com/djrtwo/writing/blob/main/docs/2022-05-30_the-risks-of-lsd.md)
-   - Danny, May 2022_
+   - _Danny, May 2022_
 4. [*On "the risks of LSD"*](https://hackmd.io/@sacha/on-the-risks-of-lsd)
    - _Sacha, Aug 2023_
 5. [*Should LIDO on Ethereum be limited to some fixed amount of stake?*](https://research.lido.fi/t/should-lido-on-ethereum-be-limited-to-some-fixed-of-stake/2225)
