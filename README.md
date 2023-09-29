@@ -79,6 +79,8 @@
    - _porcupine – April 2023_
 3. [*MinRoot: Candidate Sequential Function for Ethereum VDF*](https://eprint.iacr.org/2022/1626.pdf)
    - _Dmitry, Mary, & Pratyush – Nov 2022_
+4. [*Analysis of MinRoot*](https://crypto.ethereum.org/events/minrootanalysis2023.pdf)
+   - _Many collaborators – Sept 2023_
 
 ## lsts
 1. [*Introducing Lido V2*](https://blog.lido.fi/introducing-lido-v2/)
