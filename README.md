@@ -67,6 +67,12 @@
    - _Mallesh, Max, & Elijah – Jan 2023_
 4. [*Censorship... wat do?*](https://joncharbonneau.substack.com/p/censorship-wat-do)
    - _Jon Charb – Oct 2022_
+
+### mev-burn
+1. [*MEV burn – a simple design*](https://ethresear.ch/t/mev-burn-a-simple-design/15590)
+   - _Justin – May 2023_
+2. [*Rules and strategies of a protocol*](https://dataalways.substack.com/p/rules-and-strategies-of-a-protocol)
+   - _Data Always – Sept 2023_
   
 ### misc
 1. [*Has anyone checked on EIP-1559 recently?*](https://prestwich.substack.com/p/has-anyone-checked-on-eip-1559-recently)
