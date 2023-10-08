@@ -103,4 +103,10 @@
    - _Izzy – May 2022_
 7. [*Do stakers represent users?*](https://tinted-soup-c75.notion.site/Do-stakers-represent-users-52e6171970b84d9da2e132c37c7ff90e)
    - _Hasu – May 2022_
+8. [*Lido on Ethereum. Withdrawals Landscape.*](https://hackmd.io/@lido/SyaJQsZoj)
+   - _Lido – Aug 2023_
+9. [*Lido on Ethereum Block Proposer Rewards Policy*](https://github.com/lidofinance/documents-and-policies/blob/main/Lido%20Ethereum%20Block%20Proposer%20Rewards%20Policy.md#lido-on-ethereum-block-proposer-rewards-policy)
+   - _Lido – Dec 2022_
+10. [*Lido on Ethereum Block Validator Exits Policy*](https://github.com/lidofinance/documents-and-policies/blob/main/Lido%20on%20Ethereum%20-%20Validator%20Exits%20Policy.md#lido-on-ethereum-validator-exits-policy)
+    - _Lido – May 2023_
    
