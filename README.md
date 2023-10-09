@@ -109,4 +109,5 @@
    - _Lido – Dec 2022_
 10. [*Lido on Ethereum Block Validator Exits Policy*](https://github.com/lidofinance/documents-and-policies/blob/main/Lido%20on%20Ethereum%20-%20Validator%20Exits%20Policy.md#lido-on-ethereum-validator-exits-policy)
     - _Lido – May 2023_
-   
+10. [*Minimum Viable Issuance*](https://notes.ethereum.org/@anderselowsson/MinimumViableIssuance)
+    - _Anders – Oct 2023_
